@@ -1,5 +1,5 @@
 # JS-Calculator
-Alchemy University Community Led Sessions Project.
+A repo for Alchemy University Community Led Sessions Projects. You can drop in your own version of the projects or suggest new ones.
 
 INSTRUCTIONS FOR ADDING YOUR OWN PROJECT
 1. Kindly create a folder inside the respective project folder
